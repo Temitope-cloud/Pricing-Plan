@@ -29,7 +29,7 @@ const PricingPlan = () => {
             <div className="mt-5 mb-5 flex flex-wrap justify-center gap-3 font-semibold text-gray-700 dark:text-gray-300">
               <div className="flex items-center gap-1">
                 <i className="bx bx-dollar-circle"></i>
-                <p>One time purchase</p>
+                <p>1 time purchase</p>
               </div>
               <div className="flex items-center gap-1">
                 <i className="bx bx-list-check"></i>
