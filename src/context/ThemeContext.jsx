@@ -8,7 +8,7 @@ export const ThemeProvider = ({ children }) => {
   });
 
   const toggleTheme = () => {
-    setTheme((prev) => (prev === "light" ? "dark" : "light"));
+    setTheme((prev) => (prev === "liht" ? "dark" : "light"));
   };
 
   useEffect(() => {
