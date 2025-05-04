@@ -18,7 +18,7 @@ const PricingPlan = () => {
           <div>
             {/* Title */}
             <div>
-              <p className="text-center text-3xl font-semibold text-gray-950 dark:text-white">
+              <p className="text-center  text-3xl font-semibold text-gray-950 dark:text-white">
                 Plans that works
               </p>
               <p className="bg-gradient-to-r from-green-500 to-green-300 bg-clip-text text-center text-4xl font-semibold text-transparent">
