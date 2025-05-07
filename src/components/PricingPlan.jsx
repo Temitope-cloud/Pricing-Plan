@@ -13,7 +13,7 @@ const PricingPlan = () => {
         >
           {theme === "dark" ? "Switch to Light" : "Switch to Dark"}
         </button>
-        <div className="w-full">
+        <div className="w-full ">
           {/* Plans */}
           <div>
             {/* Title */}
